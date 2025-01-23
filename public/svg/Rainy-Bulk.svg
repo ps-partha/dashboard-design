@@ -1,0 +1,13 @@
+<svg width="40" height="41" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rainy-Bulk">
+<g id="Group 78">
+<path id="Union" d="M10.3698 31.6598C6.02344 31.6598 2.5 28.1363 2.5 23.7899C2.5 19.4436 6.02344 15.9201 10.3698 15.9201C11.3123 15.9201 12.216 16.0858 13.0535 16.3896C14.7059 12.3478 18.6772 9.5 23.3136 9.5C29.4329 9.5 34.3935 14.4606 34.3935 20.5799C34.3935 20.8494 34.3839 21.1168 34.3649 21.3815C36.2154 22.2336 37.5 24.1043 37.5 26.2751C37.5 29.249 35.0892 31.6598 32.1154 31.6598H10.3698Z" fill="url(#paint0_linear_1_655)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_655" x1="29.5" y1="46.5" x2="14" y2="12.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#979797"/>
+<stop offset="1" stop-color="#E2E2E2"/>
+</linearGradient>
+</defs>
+</svg>
