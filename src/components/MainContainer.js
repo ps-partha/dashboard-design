@@ -10,7 +10,7 @@ import NewsAndMedia from './NewsAndMedia'
 import CivicMetrics from './CivicMetrics'
 function MainContainer() {
   return (
-    <div>
+    <div className='app-left'>
       <Header />
       <div className='main-container'>
         <div className='main-container-left'>
